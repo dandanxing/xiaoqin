@@ -24,7 +24,7 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .vis{display:inline-block;vertical-align:top;}
 .pos{position:relative;margin-top:0;}
 .size{width:100%;min-width:960px;min-height:215px;}
-.cont{z-index:1;pointer-events:none;border:0;background-image:url(../images/group-3840.jpg);background-color:rgb(184,200,210);background-repeat:no-repeat;background-position:50% 50%;background-clip:padding-box;}
+.cont{z-index:1;pointer-events:none;border:0;background-image:url(../images/group-3840.jpg);background-color:transparent;background-repeat:no-repeat;background-position:50% 50%;background-clip:padding-box;}
 .pos-2{position:relative;margin-top:16px;}
 .vis-2{display:block;vertical-align:top;}
 .section{min-width:960px;width:960px;margin-left:auto;margin-right:auto;}
